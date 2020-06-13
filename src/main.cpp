@@ -1,8 +1,7 @@
 /*
 author: https://github.com/m8dhouse
 date: 13/6/2020
-License: https://creativecommons.org/licenses/by-nc-sa/4.0/
-Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+License: https://choosealicense.com/licenses/gpl-3.0/
 
 battery powered Arduino Pro mini
 serial led + AM117 removed
